@@ -1,6 +1,30 @@
-Hi! I'm Anna 👋
+# Hi, I'm Anna 👋
 
-I'm a Frontend Developer. I enjoy building responsive websites and clean, semantic code. Currently practicing HTML, CSS, and JavaScript to grow as a frontend developer.
+Junior Frontend Developer.
 
-📫 Open to remote internships and small projects.  
-💻 Check out my projects below!
+Currently learning React after completing HTML, CSS and JavaScript.
+
+I enjoy building responsive websites and improving my frontend skills through real projects.
+
+---
+
+## Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+
+Currently learning:
+
+- React
+
+---
+
+## Featured projects
+
+📌 Responsive Landing Page
+
+📌 JavaScript Basics
+
+More projects are coming soon.
